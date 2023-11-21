@@ -1,0 +1,2 @@
+# Z_PKG_DATA_TYPE_PRGRMS
+Data Type In Abap
